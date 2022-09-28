@@ -1,1 +1,1 @@
-my second readme
+Visit Git bash for commands to use
